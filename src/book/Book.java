@@ -16,7 +16,7 @@ import java.util.Random;
 public class Book {
 
     int id,year;
-    String title, author;
+    String title, author, mahadi;
     static int n,m,q;
     
     public Book(int id, int year, String title, String author) {
