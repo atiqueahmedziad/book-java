@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package book;
 
 import java.util.ArrayList;
@@ -66,10 +61,6 @@ public class Book {
             
             System.out.println("ID: "+ ob[m].id + ", Year: "+ ob[m].year + ", Title: "+ ob[m].title + ", Author: " + ob[m].author);
         
-        
-        /*for(int j=0; j<15; j++){
-            System.out.println(id[j]);
-        }*/
         }
     }
     
